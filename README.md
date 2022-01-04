@@ -9,7 +9,7 @@ One of the most used components in our daily life is paper. According to a surve
 <b> Proposed Solution: </b>
 
 This Note-taking applications enable users to type or write on their devices just as they would on paper and allow to access, store and update a note anytime. On average typing is faster than handwriting. One can add links in your notes as references. Can erase or edit text without messing up the pages and has almost unlimited pages to write on
-C:\Users\anshi\OneDrive\Desktop\notesappC
+
 <img width="200" height=”433 src="https://user-images.githubusercontent.com/75130949/148074680-d2c57a3f-f19c-4858-855e-df17cbe298ca.jpg " 
 
 
