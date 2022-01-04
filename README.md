@@ -12,6 +12,8 @@ C:\Users\anshi\OneDrive\Desktop\notesappC
 <img width="200" height=”433 src="https://user-images.githubusercontent.com/75130949/148074680-d2c57a3f-f19c-4858-855e-df17cbe298ca.jpg " 
 
 
+![image](https://user-images.githubusercontent.com/75130949/148077016-da035c2e-e6ca-44a0-965a-438d2c4ea703.png)
+![image](https://user-images.githubusercontent.com/75130949/148077099-fb5f541d-94c9-4280-a4bc-54748fa3d2a8.png)
 
 
 ![Notes App](https://user-images.githubusercontent.com/75130949/148075098-38195924-c431-4d93-82f2-a2a55acbd215.jpg)
