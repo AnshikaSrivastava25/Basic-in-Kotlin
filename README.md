@@ -8,7 +8,7 @@ One of the most used components in our daily life is paper. According to a surve
 <b> Proposed Solution: </b>
 
 This Note-taking applications enable users to type or write on their devices just as they would on paper and allow to access, store and update a note anytime. On average typing is faster than handwriting. One can add links in your notes as references. Can erase or edit text without messing up the pages and has almost unlimited pages to write on
-
+<img width="559" alt="sampleimages" src="Notes App2.jpg - OneDrive (live.com)"
 
 
 <b> Functionality & Concepts used: </b>
@@ -24,4 +24,6 @@ We built a simple Notes Application in which we will be displaying the list of n
 
 <b> Application Link & Future Scope : </b>
 
-To increase the knowledge and efficiency within organizations, sharing and tracking of information has become a priority. Note-taking applications have made a dent in the professional market, with most organizations committed to at least one application. Individually, business professionals may choose to use their own note-taking applications to track their roles within the company. 
+To increase the knowledge and efficiency within organizations, sharing and tracking of information has become a priority. Note-taking applications have made a dent in the professional market, with most organizations committed to at least one application. Individually, business professionals may choose to use their own note-taking applications to track their roles within the company.
+
+
